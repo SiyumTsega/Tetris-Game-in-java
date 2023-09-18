@@ -26,6 +26,7 @@ public class MinoL1 extends Mino{
 	}
 	
 	public void getDirection1() {
+		
 				// o
 				// o
 			    // o o

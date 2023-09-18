@@ -18,6 +18,6 @@ public class Block {
 		
 		int margin = 2;
 		g2D.setColor(c);
-		g2D.drawRect(x + margin, y + margin, SIZE - (margin*2), SIZE - (margin*2));
+		g2D.fillRect(x + margin, y + margin, SIZE - (margin*2), SIZE - (margin*2));
 	}
 }
